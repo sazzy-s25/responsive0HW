@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<head><meta name="viewport" content="width=device-width, initial-scale=1.0"></head>
+<body><nav><h2>{Finsweet</h2>
+  <h3><div class="b">Home</div> AboutUs Features Pricing FAQ Blog <div class="a">ContactUs</div></h3></nav>
+  <main>
+    <h5>About Us</h5>
+    <h1>Our designs solve problem</h1><h6>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</h6>
+    <aside><img src="https://s3-alpha-sig.figma.com/img/1819/3468/f71b71ae2cb5579a9f049b428e54f788?Expires=1714953600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=B~-2hMd5a1CnrIz8yncD7sZm9KEKqqN-qGA11Z4OsksyLAdQ9Z9o9hXEjraBFacpuVhe-cRBdXh7ecKUsYiNlqUKcA0fDfdixvagf5-8A3K8jFyqRr9V3Dlp5NvqYIxqdjMzIsVxPrgURavtvf2sIdXjjpb4wHFMG6WWXjGguJhD-dAWpHs6-2Byh1G0BXU0LEJ1EiFhHZcpzDc0hLaihbF3KXgB0jJ0k190g0tJCQvGFuRjPOK7WBi5ej6yl2ut8djP1n~abE-mcH17KIoSh3L8QbOTNFzMhVFQygEiJxFCWLvxXUdWu2KsGXNA03wVEsEnpz7Mfiqnz2gkDWQ0jw__"></aside></div>
+    <section><div class="s"><h6 class="s">Who we are</h6><h1 class="a">Goal focused</h1><h6 class="a">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</h6></div>
+<div class="ss">
+<h1 class="a">Continuous improvment</h1><h6 class="a">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</h6></div>
+  
+    </section>
+    <img src="https://s3-alpha-sig.figma.com/img/243e/bdcf/77583630b5c592cfe693a45ac8529324?Expires=1714953600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Yp~exk1VPa-CfhCHTtpgXWRFQoVnLIAUtZ9BK-q3bTo9ibzLZx02~cKoI-MGhJszArSipe8iSeDQuZqE-bCvV1-~nilLAYbn1JDFs39zDq691L6zUhwXjZp6ay7tIa5b5yEJviQnfB3NkN7prSlXfVOtPA7BF-mpy2izD2waCNazVxpr167wOj46ZZADBtZ57wM7bT1meMtcHUrBtRjRxD1CfmmoP9HbQIi8FFu0qwIS54o5otVfVA9mepkizx3kdLRDg7H7jed7L2TZuq3DU8FgbyPb-qx2xVSD~FRMzf3SFoq0hGXClTrOF2I9dx3EKT3c~3P7xAwc1h6~AaGRIw__" class="a" style="max-width: 1302px; heigh: 300px"></div>
+    
+  </main>
+  
+  
+</body>

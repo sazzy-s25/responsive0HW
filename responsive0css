@@ -1,0 +1,91 @@
+* {box-sizing: border-box}
+body{
+  font-family: sans-serif;
+  
+  
+}
+h2{color:white;
+}
+
+h3 {
+  display: block;
+  width: 800px;
+  word-spacing: 40px;
+  margin-left: 500px;
+  margin-top: -40px;
+  color: #999
+} div.a {
+  display: inline;
+  text-indent: 35px;
+  border: 1px solid white;
+  border-radius: 40px;
+  background: #1c1e53;
+  color: white;
+  padding: 20px 20px 20px 30px;
+  
+  
+} nav{
+  border: 1px solid white;
+  background: #1c1e53;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  margin-right: -120px
+  
+} div.b {
+  color: white;
+  display: inline;
+  
+  
+} h5{
+  margin-top: 140px;
+  margin-left: 25px
+} h1{
+  width: 500px;
+  font-size: 45px;
+  margin-left: 20px
+} h6{
+  width: 380px;
+  font-size: 13px;
+  margin-left: 20px;
+  margin-bottom: 30px;
+} img{
+  display: block;
+  float: right;
+  margin-top: -260px
+} main {
+  display: inline;
+  
+} h1.a{
+  font-size: 35px;
+  display: inline;
+} section{
+  border: 1px solid white;
+  background: #F4F5F5;
+  display: block;
+  padding-bottom: 480px;
+  margin: 10px 0px;
+  padding-top: 70px
+} h6.a {
+  width: 400px;
+  text-align:left
+  
+} div.ss{
+  float: right;
+  margin-top: 70px;
+  margin-right: 200px
+} div.s{
+  float:left;
+  margin-left: 100px
+}
+h6.s{
+  text-indent: 5px
+}  img.a {
+  width: 1270px;
+  height: 350px;
+  object-fit: cover;
+ object-position: 30% 50%
+} img{
+  width: 500px;
+ height: 260px;
+  object-fit: cover
+} 
